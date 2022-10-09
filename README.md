@@ -1,6 +1,6 @@
 # Uber2.0
 
-I created an Uber2.0 app in swiftui using mapkit. This app allows a user to input a location and it processes the estimated pickup and dropoff time, along with the price of the ride depending on the length of the drive. The Uber2.0 app is a great way to get an estimate of your ride cost and time, so you can plan your trip accordingly!
+I created an Uber2.0 app in SwiftUI using mapkit. This app allows a user to input a location and it processes the estimated pickup and dropoff time, along with the price of the ride depending on the length of the drive. The Uber2.0 app is a great way to get an estimate of your ride cost and time, so you can plan your trip accordingly!
 
 
 
